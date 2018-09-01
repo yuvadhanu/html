@@ -1,0 +1,16 @@
+body{
+margin:200px;
+padding:5px;
+background-color:brown;
+}
+#nav{
+position:fixed;
+top:0px;left:0px;height:30px;width:100%;
+
+background-color:black;
+}
+#nav a{
+padding:10px;
+color:white;
+text-decoration:none
+}
